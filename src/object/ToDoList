@@ -1,0 +1,33 @@
+field protection
+
+Vector
+testing
+
+Position extends Vector
+testing
+
+Atom
+testing
+
+Sphere extends Atom
+reflect accuracy
+collide accuracy
+specular reflect / collide
+frictions / drag
+infinite / negative mass
+soft collide
+
+Plane 
+movements
+limits / depth
+
+Field 
+not started
+circular force field
+
+Body 
+not started
+super class of Atom and Plane
+
+Constrain 
+not started
